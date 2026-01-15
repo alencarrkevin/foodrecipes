@@ -1,4 +1,12 @@
 <h1 align="center">🍽️ Aplicativo de Receitas de Comida em React Native 🍽️</h1>
+
+<p align="center">
+  <img src="demo/primeiro.gif" alt="Demo do aplicativo de receitas" width="300"/>
+</p>
+
+<p align="center">
+  <img src="demo/segundo.gif" alt="Demo do aplicativo de receitas" width="300"/>
+</p>
 Destaques:
 
 🔐 Cadastro, Login e Verificação de E-mail com Código de 6 Dígitos usando Clerk
