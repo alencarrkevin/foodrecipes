@@ -1,4 +1,4 @@
-<h1 align="center">🍽️ Aplicativo de Receitas de Comida em React Native 🍽️</h1>
+<h1 align="center">🍽️ Aplicativo de Receitas em React Native 🍽️</h1>
 
 <p align="center">
   <img src="demo/primeiro.gif" alt="Demo do aplicativo de receitas" width="300"/>
